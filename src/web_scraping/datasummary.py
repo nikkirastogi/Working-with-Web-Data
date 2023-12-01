@@ -1,4 +1,4 @@
-class summary:
+class DataSummary:
     def __init__(self, df):
         """Create a object by passing in a `pandas.DataFrame` of data."""
         self.data = df
