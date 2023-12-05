@@ -31,7 +31,7 @@ def main():
     obj_datacleaning = DataCleaning(data)
     data = obj_datacleaning.feild_drop()
     data
-    obj_summary = summary(data)
+    obj_summary = DataSummary(data)
     obj_summary.show()
     obj_summary.shape()
     obj_summary.usecase()
