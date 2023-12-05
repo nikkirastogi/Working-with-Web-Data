@@ -1,0 +1,16 @@
+LICENSE
+README.md
+pyproject.toml
+src/Working_with_Web_Data.egg-info/PKG-INFO
+src/Working_with_Web_Data.egg-info/SOURCES.txt
+src/Working_with_Web_Data.egg-info/dependency_links.txt
+src/Working_with_Web_Data.egg-info/requires.txt
+src/Working_with_Web_Data.egg-info/top_level.txt
+src/web_scraping/__init__.py
+src/web_scraping/__main__.py
+src/web_scraping/datacleaning.py
+src/web_scraping/datasummary.py
+src/web_scraping/edawebapi.py
+src/web_scraping/webapi.py
+src/web_scraping/webscrapping.py
+src/web_scraping/xmlparser.py
