@@ -50,5 +50,4 @@ def main():
     obj_WebAPI.MoreWordInfo()
     obj_WebAPI.ExamplesWord()
     
-if __name__ == "__main__":
-    main()
+main()
