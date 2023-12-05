@@ -1,11 +1,11 @@
-from datacleaning import DataCleaning
-from datasummary import DataSummary
+from .datacleaning import DataCleaning
+from .datasummary import DataSummary
 import pandas as pd
 # import class from module xmlparser
-from xmlparser import SitemapParser
-from webapi import APIDataFetch as adf
-from edawebapi import EDAWebAPI
-from webscrapping import WebScrape
+from .xmlparser import SitemapParser
+from .webapi import APIDataFetch as adf
+from .edawebapi import EDAWebAPI
+from .webscrapping import WebScrape
 import requests
 import matplotlib.pyplot as plt
 from bs4 import BeautifulSoup
