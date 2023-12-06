@@ -10,7 +10,6 @@ import requests
 import matplotlib.pyplot as plt
 from bs4 import BeautifulSoup
 import urllib.request as req
-
 def main():
     
     print("XML Parser")
