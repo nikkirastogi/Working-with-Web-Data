@@ -18,6 +18,7 @@ dependencies = [
     "urllib3>=1.26",
     "beautifulsoup4>=4.9", 
     "requests>=2.26",
+    "lxml>=4.6"
     ]
 
 [project.urls]
